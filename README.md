@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/chef-sa/anthonygrees/_apis/build/status/anthonygrees.pipelines-javascript-docker?branchName=master)](https://dev.azure.com/chef-sa/anthonygrees/_build/latest?definitionId=5&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
